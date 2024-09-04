@@ -1,0 +1,18 @@
+.red-input:focus {
+    border-color: red;
+  }
+  
+.radio-input[type="radio"]:focus{
+
+    background-color: red;
+}
+
+.custom-control-input{
+    color: red !important;
+    background-color: red;
+}
+
+.back{
+    background-color: red;
+}
+
